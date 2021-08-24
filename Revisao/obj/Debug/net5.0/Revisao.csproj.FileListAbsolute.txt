@@ -3,3 +3,14 @@ C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\
 C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
 C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
 C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\miguel\Desktop\Project\DigitalInovation.Net.1\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
