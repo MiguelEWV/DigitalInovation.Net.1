@@ -1,6 +1,6 @@
 namespace Revisao
 {
-    public class ConceitoEnum
+    public enum ConceitoEnum
     {
        A,
        B,
