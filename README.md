@@ -1,2 +1,2 @@
 # DigitalInovation.Net.1
-Primeiro Projeto do dotNet (Armazenamento de alunos e notas e uma media total das notas de todos eles)
+Primeira atividade da Unidade 5_Primeros Pasos com NET e C# (Armazenamento de alunos e notas e uma media total das notas de todos eles)
